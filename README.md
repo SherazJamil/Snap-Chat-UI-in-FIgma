@@ -1,2 +1,2 @@
-# Snap-Chat-UI-in-FIgma
+# Snap-Chat-UI-in-Figma
 Snap Chat application UI made in Figma
